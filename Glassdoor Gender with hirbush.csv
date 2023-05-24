@@ -1,0 +1,103 @@
+JobTitle,Gender,Age,PerfEval,Education,Dept,Seniority, Salary($) , Bonus($) ,Require-level,ID employee
+Graphic Designer,Female,18,5,College,Operations,2,"42,363","9,938",Junior,6789
+Warehouse Associate,Female,19,4,PhD,Administration,5,"90,208","9,268",medium,6790
+IT,Female,20,,PhD,Operations,4,"70,890","10,126",medium,6791
+Graphic Designer,Female,20,5,College,Sales,4,"67,585","10,541",medium,6792
+Graphic Designer,Female,33,,High School,Engineering,5,"112,976","9,836",medium,6793
+Sales Associate,Female,35,5,College,Engineering,5,"106,524","9,941",medium,6794
+Driver,Female,18,5,College,Management,3,"62,759","10,124",medium,6795
+Financial Analyst,Female,19,,College,Sales,3,,"8,990",medium,6796
+Warehouse Associate,Female,30,5,Masters,Administration,5,"86,220","9,583",medium,6797
+Warehouse Associate,Female,35,,PhD,Operations,4,"95,584","9,745",medium,6798
+Marketing Associate,Female,27,5,PhD,Management,3,"73,357","10,334",medium,6799
+Financial Analyst,Female,23,5,PhD,Administration,5,eden,,medium,6800
+Warehouse Associate,Female,24,5,College,Administration,5,"99,545","9,949",medium,6801
+Data Scientist,Female,30,5,College,Engineering,5,"92,067","9,838",medium,6802
+Driver,Female,35,5,College,Management,1,"72,038","9,031",Junior,6803
+Graphic Designer,Female,26,5,College,Engineering,2,"71,182","10,015",Junior,6804
+IT,Female,38,5,College,Administration,5,,"10,504",medium,6805
+Marketing Associate,Female,26,5,PhD,Operations,4,"80,306","9,233",medium,eden
+Data Scientist,Female,22,5,High School,Engineering,3,"74,523","9,972",medium,6807
+Data Scientist,Female,45,5,PhD,Management,5,"113,252","10,139",medium,
+IT,Female,33,5,College,Management,4,"84,638","9,409",medium,6809
+Data Scientist,Female,21,5,PhD,Operations,3,"70,643","10,033",medium,6810
+Graphic Designer,Female,26,5,PhD,Sales,6,eden,"10,346",senior,6811
+IT,Female,22,5,High School,Sales,4,"102,120","10,215",medium,6812
+Marketing Associate,Female,35,5,PhD,Engineering,5,"97,376","9,564",medium,6813
+Data Scientist,Female,33,5,Masters,Sales,2,"89,415","9,654",Junior,6814
+Software Engineer,Female,22,4,Masters,Operations,3,"88,037","8,949",medium,6815
+Data Scientist,Female,24,4,College,Administration,4,"71,105","8,623",medium,6816
+Driver,Female,31,5,High School,Engineering,2,"62,692","8,886",Junior,6817
+Data Scientist,Female,49,5,College,Operations,3,"71,193","8,331",medium,6818
+Marketing Associate,Female,20,5,Masters,Administration,6,"76,286","9,479",senior,6819
+Warehouse Associate,Female,41,5,College,Operations,2,"82,453","9,564",Junior,6820
+Sales Associate,Female,33,5,High School,Engineering,3,"83,034","8,841",medium,6821
+Warehouse Associate,Female,53,5,College,Engineering,5,"127,085","9,687",medium,6822
+Sales Associate,Female,31,5,College,Management,1,"52,633","9,516",Junior,6823
+Warehouse Associate,Female,31,4,PhD,Operations,5,"101,154","10,324",medium,6824
+Financial Analyst,Female,42,5,College,Engineering,5,"113,640","8,762",medium,6825
+Marketing Associate,Female,23,5,PhD,Administration,3,"46,263","9,432",medium,6826
+Warehouse Associate,Female,36,4,College,Management,3,"74,938","8,234",medium,6827
+Marketing Associate,Female,39,5,College,Sales,5,"103,384","9,168",medium,6828
+Warehouse Associate,Female,39,5,College,Engineering,2,"77,584","9,798",Junior,6829
+Warehouse Associate,Female,25,3,Masters,Engineering,6,"80,192","8,747",senior,6830
+Data Scientist,Female,32,5,PhD,Engineering,1,"46,693","8,457",Junior,6831
+IT,Female,48,5,PhD,Operations,3,"88,152","8,857",medium,6832
+Data Scientist,Female,38,5,Masters,Administration,5,"127,156","9,979",medium,6833
+Financial Analyst,Female,36,5,Masters,Administration,3,"92,622","8,509",medium,6834
+Marketing Associate,Female,34,5,Masters,Engineering,1,"51,331","9,130",Junior,6835
+Driver,Female,21,4,Masters,Sales,4,"77,032","8,725",medium,6836
+Financial Analyst,Female,47,5,High School,Sales,5,"146,190","8,961",medium,6837
+Graphic Designer,Female,22,4,Masters,Administration,4,"96,045","9,129",medium,6838
+Marketing Associate,Female,34,5,High School,Sales,6,"96,061","9,093",senior,6839
+Warehouse Associate,Female,48,5,College,Management,5,"111,342","10,122",medium,6840
+Financial Analyst,Female,43,5,PhD,Management,3,"117,554","8,369",medium,6841
+Financial Analyst,Female,30,5,High School,Engineering,5,"109,369","10,052",medium,6842
+Warehouse Associate,Female,25,4,Masters,Operations,4,"92,358","9,611",medium,6843
+Financial Analyst,Female,21,4,Masters,Operations,4,"91,978","8,647",medium,6844
+Marketing Associate,Female,29,4,Masters,Administration,5,"89,822","8,818",medium,6845
+Warehouse Associate,Female,51,5,High School,Management,3,"87,684","8,645",medium,6846
+Marketing Associate,Female,40,5,Masters,Administration,3,"62,040","8,056",medium,6847
+Sales Associate,Female,52,5,Masters,Engineering,2,"84,132","7,204",Junior,6848
+Financial Analyst,Female,29,4,Masters,Administration,4,"88,047","8,459",medium,6849
+Driver,Female,37,5,Masters,Administration,2,"65,012","8,357",Junior,6850
+Marketing Associate,Female,23,4,Masters,Engineering,4,"59,251","8,596",medium,6851
+Graphic Designer,Female,18,4,PhD,Operations,3,"78,462","8,743",medium,6852
+Driver,Female,18,4,Masters,Administration,2,"42,722","8,515",Junior,6853
+Marketing Associate,Female,26,4,College,Management,3,"63,695","8,897",medium,6854
+IT,Female,26,5,College,Administration,2,"53,956","9,454",Junior,6855
+IT,Female,49,5,College,Management,3,"108,495","8,668",medium,6856
+Financial Analyst,Female,27,4,High School,Administration,4,"87,608","7,511",medium,6857
+Marketing Associate,Female,44,5,High School,Sales,1,"57,469","7,539",Junior,6858
+Driver,Female,24,4,High School,Administration,5,"91,049","10,375",medium,6859
+Manager,Female,32,5,PhD,Operations,1,"98,519","8,943",Junior,6860
+Marketing Associate,Female,36,4,High School,Operations,5,"91,713","7,627",medium,6861
+Warehouse Associate,Female,41,4,Masters,Engineering,3,"88,994","8,873",medium,6862
+Financial Analyst,Female,43,5,High School,Sales,6,"113,180","9,089",senior,6863
+Software Engineer,Female,28,3,PhD,Engineering,4,"103,763","8,383",medium,6864
+Warehouse Associate,Female,19,4,College,Sales,2,"64,844","9,042",Junior,6865
+Driver,Female,61,5,PhD,Sales,4,"129,132","8,472",medium,6866
+Warehouse Associate,Female,57,5,High School,Engineering,3,"93,470","8,578",medium,6867
+Graphic Designer,Female,52,5,College,Administration,1,"66,529","7,067",Junior,6868
+Data Scientist,Female,48,5,Masters,Management,1,"100,115","7,679",Junior,6869
+Warehouse Associate,Female,57,5,PhD,Administration,2,"86,423","8,058",Junior,6870
+Data Scientist,Female,53,5,Masters,Engineering,5,"133,495","8,552",medium,6871
+Sales Associate,Female,35,4,PhD,Sales,1,"84,844","7,205",Junior,6872
+Graphic Designer,Female,51,5,College,Operations,3,"108,241","8,602",medium,6873
+Warehouse Associate,Female,51,5,High School,Sales,3,"106,478","8,744",medium,6874
+Marketing Associate,Female,33,5,High School,Operations,2,"46,903","8,130",Junior,6875
+Marketing Associate,Female,27,5,High School,Management,1,"44,325","8,867",Junior,6876
+Marketing Associate,Female,20,3,PhD,Sales,5,"60,070","8,273",medium,6877
+IT,Female,29,4,Masters,Management,3,"72,542","8,109",medium,6878
+IT,Female,30,4,Masters,Engineering,6,"80,981","8,201",senior,6879
+IT,Female,42,5,College,Operations,2,"83,499","8,950",Junior,6880
+Driver,Female,42,4,Masters,Management,4,"106,788","8,974",medium,6881
+Warehouse Associate,Female,50,4,Masters,Engineering,5,"108,922","8,477",medium,6882
+IT,Female,43,5,PhD,Administration,5,"127,062","9,619",medium,6883
+Marketing Associate,Female,33,5,High School,Engineering,1,"49,830","8,543",Junior,6884
+Marketing Associate,Female,24,3,Masters,Operations,5,"82,338","7,414",medium,6885
+Marketing Associate,Female,37,4,PhD,Administration,3,"86,036","7,567",medium,6886
+Financial Analyst,Female,52,5,High School,Engineering,2,"100,070","7,169",Junior,6887
+Sales Associate,Female,53,4,Masters,Operations,5,"129,609","7,392",medium,6888
+Driver,Female,51,5,College,Operations,1,"72,827","7,285",Junior,6889
+Graphic Designer,Female,44,4,High School,Administration,4,"100,416","7,513",medium,6890
